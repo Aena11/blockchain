@@ -14,6 +14,6 @@
 - ganache >https://www.trufflesuite.com/ganache as etherium wallet for testing .
 - For running your code >https://remix.ethereum.org/ 
 - To intaract between ether wallet and code use >https://www.myetherwallet.com/
-- .....
+- .....,.
 
 
